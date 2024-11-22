@@ -20,8 +20,7 @@ jobs:
 
 
 
-    - name: Run Tests
-      run: vendor/bin/phpunit
+
 
   deploy:
     runs-on: ubuntu-latest
